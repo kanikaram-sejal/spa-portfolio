@@ -1,0 +1,16 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    width: 90%;
+}
+
+/* .skils{
+    width: 300px; 
+}
+
+.courses{
+    width: 900px;
+} */
