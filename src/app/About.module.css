@@ -5,12 +5,13 @@
     margin-right: auto;
     justify-content: space-between;
     width: 90%;
-}
-
-/* .skils{
-    width: 300px; 
+    gap: 70px;
 }
 
 .courses{
     width: 900px;
-} */
+} 
+
+.projects{
+    width: 900px;
+}

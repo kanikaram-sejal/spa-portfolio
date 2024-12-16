@@ -36,8 +36,8 @@ export default function About() {
             <div className={styles.courses}>
               <h3>Relevant Coursework</h3>
               <ul>
-                <li>ECS 120 - Theory of Computation</li>
                 <li>ECS 122A - Algorithm Design and Analysis</li>
+                <li>ECS 120 - Theory of Computation</li>
                 <li>ECS 132 - Probability & Statistical Modeling for Computer Science</li>
                 <li>ECS 36C - Data Structures, Algorithms, & Programming</li>
                 <li>ECS 36B - Software Development & Object-Oriented Programming in C++</li>
@@ -50,9 +50,9 @@ export default function About() {
                 <h3>Projects</h3>
                 <ul>
                     <li>Tic-Tac-Toe</li>
-                    <p></p>
+                    <p>Followed a React tutorial to learn how to develope a web application</p>
                     <li>Calendar</li>
-                    <p>A web application to </p>
+                    <p>Used Next.js styled with CSS to create a web application that displays a monthly calendar where users can add, edit and delete events, navigate to future and past months and jump to current date. </p>
                     <li>This website!</li>
                     <p>Used Next.js styled with CSS to create a single page web application portfolio </p>
                 </ul>
