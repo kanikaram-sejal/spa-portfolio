@@ -8,7 +8,7 @@ export default function About() {
               and minoring in Tech Mangement and Human Development. I am interested in 
               Full-Stack Developement paraticularly front-end development as well as product 
               mangement! Some of my favortie ways to spend my time are arts and crafts, 
-              baking, going on walks and farmer's market visits. I also enjoy speding time 
+              baking, going on walks and farmers market visits. I also enjoy speding time 
               going to adventures with my friends.</p>
             <div>
             <h3>Education</h3>
