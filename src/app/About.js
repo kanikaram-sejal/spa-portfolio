@@ -49,12 +49,14 @@ export default function About() {
             <div className={styles.projects}>
                 <h3>Projects</h3>
                 <ul>
-                    <li>Tic-Tac-Toe</li>
-                    <p>Followed a React tutorial to learn how to develope a web application</p>
-                    <li>Calendar</li>
+                    <li><a target="_blank" href="https://github.com/kanikaram-sejal/weather">Weather</a></li>
+                    <p>Developed a Java application that integrates the Weatherstack API to fetch and display real-time weather data for user-specified locations, utilizing Java's HTTP Client to retrieve, parse, and process JSON data efficiently.</p>
+                    <li><a target="_blank" href="https://github.com/kanikaram-sejal/Tic-Tac-Toe">Tic-Tac-Toe</a></li>
+                    <p>Followed a React tutorial to learn how to develope a web application.</p>
+                    <li><a target="_blank" href="https://github.com/kanikaram-sejal/calendar">Calendar</a></li>
                     <p>Used Next.js styled with CSS to create a web application that displays a monthly calendar where users can add, edit and delete events, navigate to future and past months and jump to current date. </p>
-                    <li>This website!</li>
-                    <p>Used Next.js styled with CSS to create a single page web application portfolio </p>
+                    <li><a target="_blank" href="https://github.com/kanikaram-sejal/spa-portfolio">This website!</a></li>
+                    <p>Used Next.js styled with CSS to create a single page web application portfolio. </p>
                 </ul>
             </div>
           </div>
